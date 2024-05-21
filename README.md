@@ -1,6 +1,6 @@
-Rulet mobil uygulaması için yazılmış olan api
+API written for the Roulette mobile application.
 
-Yeni bir skor yapıldığında, skoru veritabanına kaydeden ve tüm skorları görüntüleyebilen ve hiyerarşik sıralamasını yapabilen bir api.
+It saves the score to the database when a new score is made, allows to view all scores, and arranges them in a hierarchical order.
 
 composer install
 php artisan migrate
